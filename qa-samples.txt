@@ -1,0 +1,100 @@
+Question: Where is Mount Everest located?
+Correct Answer: Mount Everest is located in the Mahalangur Himal sub-range of the Himalayas.
+My system Answer: Mount Everest is located in the Mahalangur Himal sub-range of the Himalayas.(correct)
+
+
+Question: Where is Ulawun situated?
+Correct Answer: Ulawun is situated on the island of New Britain, in West New Britain Province, Papua New Guinea.
+My system Answer: Ulawun is situated on the island of New Britain, in West New Britain Province, Papua New Guinea.(correct)
+
+
+Question: What is Electronic Medical Record?
+Correct Answer: Electronic Medical Record is the systematized collection of patient and population electronically-stored health information in a digital format.
+My system Answer: Electronic Medical Record is the systematized collection of patient and population electronically-stored health information in a digital format.(correct)
+
+
+Question: What is Ecosystem?
+Correct Answer: Nonviolence is the personal practice of being harmless to self and others under every condition.
+My system Answer: Nonviolence is the personal practice of being harmless to self and others under every condition.(correct)
+
+
+Question: What is Nonviolence?
+Correct Answer: Ecosystem is a community made up of living organisms and nonliving components such as air, water, and mineral soil.
+My system Answer: Ecosystem is a community made up of living organisms and nonliving components such as air, water, and mineral soil.(correct)
+
+
+Question: Who is A. R. Rahman?
+Correct Answer: A. R. Rahman is an Indian music director, composer, singer-songwriter, and music producer.
+My system Answer: A. R. Rahman is an Indian music director, composer, singer-songwriter, and music producer.(correct)
+
+
+Question: Who is Donald John Trump?
+Correct Answer:Donald John Trump is the 45th and current President of the United States.
+My system Answer: Donald John Trump is the 45th and current President of the United States.(correct)
+
+
+Question: Who is Priyanka Chopra?
+Correct Answer:Priyanka Chopra is an Indian actress, singer, film producer, philanthropist, and the winner of the Miss World 2000 pageant.
+My system Answer: Priyanka Chopra is an Indian actress, singer, film producer, philanthropist, and the winner of the Miss World 2000 pageant.(correct)
+
+
+
+Question: When was Indira Gandhi born?
+Correct Answer: Indira Gandhi was born on 19 November 1917.
+My system Answer: Indira Gandhi was born on 19 November 1917.(correct)
+
+
+Question: When was World Trade Center bombed?
+Correct Answer: World Trade Center was bombed on February 13, 1975
+My system Answer: World Trade Center was bombed on February 13, 1975(correct)
+
+
+Question: Where is Texas located?
+Correct Answer: Texas is located in South Central region of US.
+My system Answer: Texas is located in the South Central region of the country, Texas shares borders with the U.S. states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the southwest, while the Gulf of Mexico is to the southeast(incorrect)
+
+
+Question: Where is Thar Desert located?
+Correct Answer: 75% of Thar desert is located within India with the remaining 25% in Pakistan.
+My system Answer: Thar Desert is located within India, with the remaining 25% in Pakistan.(incorrect)
+
+
+Question: Where is New York city located?
+Correct Answer: New York city is located is southern tip of the state of New York.
+My system Answer:New York city located is the most populous city in the United States(incorrect)
+
+
+Question: What is the name of US president?
+Correct Answer: The name of US president is Donald John Trump.
+My system Answer: the name of US president is the head of state and head of government of the United States of America.(incorrect)
+
+
+Question: What is a bird?
+Correct Answer: Birds, also known as Aves, are a group of endothermic vertebrates, characterized by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton.
+My system Answer: a bird is makes them the sole surviving dinosaurs according to cladistics.Some birds, especially corvids and parrots, are among the most intelligent animals; several bird species make and use tools, and many social species pass on knowledge across generations, which is considered a form of culture.(incorrect)
+
+
+Question: Who is Mahatma Gandhi?
+Correct Answer: Mahatma Gandhi is was an Indian activist who was the leader of the Indian independence movement against British rule.
+My system Answer:Mahatma Gandhi is officially named after Gandhi.(incorrect)
+
+
+Question: Who is Barack Obama?
+Correct Answer: Barack Obama  is an American attorney and politician who served as the 44th President of the United States from 2009 to 2017.
+My system Answer: Barack Obama is Obama's planned presidential library(incorrect)
+
+
+Question: Who is Steve Jobs?
+Correct Answer: Steve Jobs  was an American business magnate and investor. 
+My system Answer:Steve Jobs is this thing about Steve Jobs?"(incorrect)
+
+
+Question: When was Jawaharlal Nehru born?
+Correct Answer: Jawaharlal Nehru was born on 14 November 1889
+My system Answer: Jawaharlal Nehru was born(incorrect)
+
+
+Question: When was George Washington born?
+Correct Answer: George Washington was born on February 22, 1732.
+My system Answer: George Washington was born(incorrect)
+
